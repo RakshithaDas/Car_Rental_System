@@ -15,11 +15,7 @@ This is a project for a car rental website. It is a project for the College Mini
 - [Car Listing Page](#car-listing-page)
 - [User Story](#user-story)
 - [Admin Page](#admin-page)
-- [Project Report](#project-report)
-- [License](#license)
-- [Demo](#demo)
-- [Authors](#authors)
-- [Show your support](#show-your-support)
+  
 
 
 ## Introduction
@@ -53,7 +49,7 @@ This is a project for a car rental website. It is a project for the College Mini
 - The database is stored in the root of the XAMPP server.
 - The database is imported to the XAMPP server.
 - Database used is MySQL.
-- Database Connection page is named [connection.php](/connection.php).
+  
 
 ## Table
 
@@ -99,40 +95,4 @@ This is a project for a car rental website. It is a project for the College Mini
 - Admin can return a car by clicking the return button.
 - Admin can delete a reservation by clicking the delete button.
 - Admin can view feedback by clicking the view button.
-
-## Project Report
-
-- The project report is stored in a folder called [report](https://github.com/Varshithvhegde/car_rental_project/raw/main/report/CarProjectFinalReport.pdf).
-- Report consists of the following:
-    - Introduction
-    - Literature Review
-    - Methodology
-    - Result
-    - Conclusion
-    - References
-- The project report is written in Microsoft Word.
-- The project repot has flow chart, ERD, and UML diagram.
-
-##  License
-
-[MIT](https://choosealicense.com/licenses/mit/) © [Varshith Hegde](https://github.com/Varshithvhegde)
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Demo
-
-- [Live Deployment](https://carsminiproject.000webhostapp.com/)
-- [Video Demo](https://youtu.be/1Z9Z9Z9Z9Z9)
-
-## Authors 
-
-- [Varshith V Hegde](https://github.com/Varshithvhegde)
-- [Swasthik Jain PM](https://github.com/Swasthik-Jain)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-
-
 
